@@ -1,6 +1,6 @@
 FROM amazonlinux:2.0.20191016.0
 
-LABEL maintainer="Dave Masino <davem@slalom.com>"
+LABEL maintainer="Dave Masino <davem@2dc.com>"
 
 ARG PYTHON_VERSION=3.7.6
 ARG AIRFLOW_VERSION=1.10.9
